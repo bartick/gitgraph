@@ -27,7 +27,7 @@
 * git commit --date="(date-you-want-to-commit-to)" -m "hack-commit"
 * git push origin master
 
-I tried out this program for experimental purpose and not for learning.
+I tried out this program for experimental purpose and for learning.
 I have not used it for gaining an advantage over others.
 If you want to try it out you can try this code out but please do not use it to gain undeserved advantage over other.
 
